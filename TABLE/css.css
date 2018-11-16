@@ -1,0 +1,48 @@
+ th, td {
+    border-bottom: 1px solid #ddd;
+    padding: 1px;
+    border-collapse: collapse;
+}
+table {
+	width: 80%;
+
+}
+
+
+td#DATE {
+	font-family: verdana;
+	font-size: 20px;
+	text-align: center;
+	font-style: italic;
+}
+th{
+	height:50px;
+
+	width: 100px;
+}
+
+img {
+	width: 100px;
+	vertical-align: middle;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+td{
+	text-align: left;
+	height: 70px;
+	width: 20px;
+	vertical-align: middle;
+	text-shadow: 5px 0px white;
+}
+
+body {
+	background-size: 100%;
+	opacity: .3
+	background-image:
+	opacity: .2;
+
+	
+
+}

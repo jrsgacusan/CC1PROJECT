@@ -1,0 +1,38 @@
+body  {
+background-color:teal;
+border: 10px solid "364039";
+margin-bottom: 50 px;
+margin-left:80px;
+margin-right:80px;
+margin-top: 30px; 
+}
+#header {
+    background-color: #F1F1F1 ;
+    text-align: center;
+    padding: 20px;
+	font-size: 50px;
+	
+}
+#navi {
+    overflow: hidden;
+    background-color: #F1F1F1;
+
+}
+a:hover{
+    background-color: #ddd;
+    color: black;
+}
+a{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+   
+    padding: 14px 16px;
+    text-decoration: none;
+	font-family: verdana;
+	font-style:bold;
+}
+#column {
+    float: left;
+    width: 33.33%;
+}
